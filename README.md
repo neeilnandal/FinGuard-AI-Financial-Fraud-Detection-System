@@ -1,2 +1,4 @@
-# FinGuard-AI-Financial-Fraud-Detection-System
-What it does Detects fraudulent transactions from tabular financial data.  Compares classical ML baselines with anomaly detection.  Includes explainability so results are easier to trust.  Provides a simple dashboard or API for demo use.
+
+# FinGuard AI
+
+FinGuard AI is a machine learning-based financial fraud detection system that identifies suspicious transactions using supervised learning, anomaly detection, and explainable AI. The project is designed as a clean, production-style GitHub repository for academic and portfolio use.
